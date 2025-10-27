@@ -1,0 +1,6 @@
+# Replit configuration
+run = "python main.py"
+
+[deploy]
+run = ["python", "main.py"]
+
