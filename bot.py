@@ -15,8 +15,8 @@ TEMP_DIR = "temp_files"
 COOKIES_FILE = "terabox_cookies.json"
 
 # TERABOX LOGIN (solo per test!)
-TERABOX_EMAIL = "jinnegru2@protonmail.com"
-TERABOX_PASSWORD = "Limone189!"
+TERABOX_EMAIL = ""
+TERABOX_PASSWORD = ""
 
 # Keep-alive per UptimeRobot
 app = Flask('')
